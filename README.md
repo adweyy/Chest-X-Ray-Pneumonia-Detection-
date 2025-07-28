@@ -132,4 +132,4 @@ Credits
 
 Dataset: Kermany et al., 2018
 Tools: PyTorch, Google Colab
-Author: [Your Name]
+Author: Adwaith Arun
